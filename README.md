@@ -67,7 +67,7 @@ git --version
 ## Usage
 
 Open the project in Visual Studio "verifica.sln"
-Debug or run the exe 
+Open terminal and type
 ```sh
 start ./verifica/bin/Debug/verifica.exe
 ```
@@ -79,7 +79,6 @@ start ./verifica/bin/Debug/verifica.exe
 Enrico Biancotto - [@enricobiancotto](https://instagram.com/enricobiancotto) - enricobiancotto@protonmail.com
 
 Project Link: [https://github.com/enricBiancott0/verifica](https://github.com/enricBiancott0/verifica)
-
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [login-screen]: verifica/images/login.png
