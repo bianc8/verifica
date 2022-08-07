@@ -32,7 +32,7 @@
 [![Home Page Screen Shot][login-screen]](https://github.com/enricBiancott0/verifica)
 [![Home Page Screen Shot][home-screen]](https://github.com/enricBiancott0/verifica)
 
-This project was made by Enrico Biancotto in 2017, it is a Visual Basic Application with a Database link, DB was not saved properly so I had to publish this repository without it, however I love the modern look of this application, just by using Panels with a proper color palette.
+This project was made by Enrico Biancotto in 2017, it is a Visual Basic Application with a Database link, I love the modern look of this application, just by using Panels with a proper color palette.
 
 ### Built With
 
